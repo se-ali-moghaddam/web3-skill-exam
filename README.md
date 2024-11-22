@@ -1,7 +1,5 @@
 # web3-skill-exam
 
-Here’s the revised text with **Transaction Tracking** added as the second feature:
-
 ---
 
 ### Blockchain Backend Skill Test
